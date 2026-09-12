@@ -24,7 +24,6 @@
 </div>
 
 ---
----
 
 ### 💡 About Synapse Club
 **Synapse Club** is the official **Women in Data Science (WiDS) ACEEC Chapter**, operating under the global WiDS initiative backed by **Stanford University, California**. We empower CSD students through hands-on technical literacy, industry mentorship, and practical data analytics.
@@ -53,6 +52,21 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Classroom](https://img.shields.io/badge/GitHub%20Classroom-2088FF?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+### 📈 Chapter Activity & Analytics
+
+<div align="center">
+
+  <a href="https://github.com/Synapse-Club-WiDS-ACEEC">
+    <img src="https://github-readme-stats.vercel.app/api?username=Synapse-Club-WiDS-ACEEC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Synapse-Club-WiDS-ACEEC">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synapse-Club-WiDS-ACEEC&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  </a>
 
 </div>
 
@@ -131,8 +145,24 @@
 
 ---
 
+### ⚙️ Workshop Architecture & Pipeline
+
+<details>
+<summary><b>🔍 Click to expand 2-Day Data Workshop Syllabus & Datathon Specs</b></summary>
+
+<br/>
+
+| Stage | Focus Area | Key Tech & Libraries | Practice Datasets |
+| :--- | :--- | :--- | :--- |
+| **Day 1: Foundations** | Data Cleaning, Type Casting & Feature Engineering | `Pandas`, `NumPy`, `Jupyter` | IPL Cricket Stats & Netflix Originals |
+| **Day 2: Keynote** | Scalable Code Standards & Real-world AI/ML Workflows | `Git`, `GitHub Classroom`, `VS Code` | Spotify Global Audio Trends |
+
+</details>
+
+---
+
 ### 🎯 Flagship Initiatives
 
 * 🐍 **2-Day Interactive Python & Data Workshop:** 10-hour intensive bootcamp covering data cleaning, EDA, and visualization using real-world datasets (IPL Cricket, Netflix Shows, Spotify Trends).
-* 📊 **Datathons:** data challenges using real-world datasets
+* 📊 **Datathons:** Hands-on data challenges designed for students.
 * 🎙️ **Industry Speaker Series:** Guest keynotes, portfolio reviews, and fireside Q&A sessions with visiting data science experts.
