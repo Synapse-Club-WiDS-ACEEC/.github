@@ -24,6 +24,7 @@
   </table>
 
   <br/>
+  
 <!-- Organization Badges -->
   <a href="https://github.com/Synapse-Club-WiDS-ACEEC"><img src="https://img.shields.io/badge/WiDS-ACEEC%20Chapter-8A2BE2?style=for-the-badge&logo=IEEE&logoColor=white" alt="WiDS Chapter" /></a>
   <a href="https://github.com/Synapse-Club-WiDS-ACEEC"><img src="https://img.shields.io/badge/Club-Synapse%20ACEEC-blue?style=for-the-badge&logo=github&logoColor=white" alt="Organization" /></a>
@@ -32,10 +33,10 @@
 
   <br />
   
-  <!-- Interactive Badges -->
-  <a href="https://www.wids-conference.org/"><img src="https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford" /></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Campus-ACEEC%20Hyderabad-orange?style=for-the-badge" /></a>
+<!-- Interactive Badges -->
+<a href="https://www.wids-conference.org/"><img src="https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford" /></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Campus-ACEEC%20Hyderabad-orange?style=for-the-badge" /></a>
 
 </div>
 
@@ -88,15 +89,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Classroom](https://img.shields.io/badge/GitHub%20Classroom-2088FF?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</div>
 </div>
 
 ---
