@@ -1,10 +1,29 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/Synapse-Club-WiDS-ACEEC/.github/main/profile/Synapse_WIDS_animated_banner_stars.gif" width="100%" alt="Synapse Club Banner" />
+<!-- Animated Header Banner -->
+<img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/Synapse_WIDS_animated_banner_stars.gif?raw=true" width="100%" alt="Synapse Club | Official WiDS@ACEEC Chapter" />
 
-  <br />
-  <br />
+  <br/><br/>
+
+  <!-- Header Logos Table -->
+  <table width="100%" border="0">
+    <tr>
+      <td align="left" width="20%">
+        <!-- Synapse Club Logo -->
+        <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/SynapseClub_Logo.jpeg?raw=true" width="150" alt="Synapse Logo">
+      </td>
+      <td align="center" width="60%">
+        <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
+        <p><b>Department of Computer Science & Data Science (CSD) | ACE Engineering College</b></p>
+      </td>
+      <td align="right" width="20%">
+        <!-- WiDS Logo -->
+        <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/WiDS_Logo.png?raw=true" width="200" alt="WiDS Logo">
+      </td>
+    </tr>
+  </table>
+
+  <br/>
 
   <!-- Badges -->
   [![WiDS Chapter](https://img.shields.io/badge/WiDS-ACEEC%20Chapter-8A2BE2?style=for-the-badge&logo=IEEE&logoColor=white)](https://github.com/Synapse-Club-WiDS-ACEEC)
@@ -15,8 +34,36 @@
   <br />
   <br />
 
-  <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
-  <p><i>Empowering student developers through hands-on Data Science, Analytics, and Open Source.</i></p>
+  <!-- Interactive Badges -->
+  <a href="https://www.wids-conference.org/"><img src="https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Campus-ACEEC%20Hyderabad-orange?style=for-the-badge" /></a>
+
+</div>
+
+---
+
+### 📈 Chapter Activity & Metrics
+
+<div align="center">
+
+  <!-- Working Dynamic Badges -->
+  <img src="https://img.shields.io/badge/Active%20Members-8%20Teams-purple?style=for-the-badge&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active%20Chapter-success?style=for-the-badge&logo=activity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
+
+[![WiDS Community](https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford)](https://www.wids-conference.org/)
+[![Python](https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pandas.pydata.org/)
+[![Location](https://img.shields.io/badge/Campus-ACEEC%20Hyderabad-orange?style=for-the-badge)](#)
+
+</div>
+
+---
+
+  <br />
+  <br />
 
 </div>
 
