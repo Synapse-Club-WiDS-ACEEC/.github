@@ -45,10 +45,10 @@
 
 <div align="center">
 
-  <!-- Working Dynamic Badges -->
-  <img src="https://img.shields.io/badge/Active%20Members-8%20Teams-purple?style=for-the-badge&logo=users&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active%20Chapter-success?style=for-the-badge&logo=activity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+<!-- Working Dynamic Badges -->
+<img src="https://img.shields.io/badge/Active%20Members-8%20Teams-purple?style=for-the-badge&logo=users&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Active%20Chapter-success?style=for-the-badge&logo=activity&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Python-blue?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
