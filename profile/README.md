@@ -24,33 +24,115 @@
 </div>
 
 ---
+---
 
 ### 💡 About Synapse Club
-**Synapse Club** is the official **Women in Data Science (WiDS) ACEEC Chapter**, operating under the global WiDS initiative launched at **Stanford University, California**. We empower CSD students through hands-on technical literacy, industry mentorship, and practical data analytics.
+**Synapse Club** is the official **Women in Data Science (WiDS) ACEEC Chapter**, operating under the global WiDS initiative backed by **Stanford University, California**. We empower CSD students through hands-on technical literacy, industry mentorship, and practical data analytics.
 
 ---
 
-### 🏛️ Leadership & Governance
-* **Faculty Advisor:** Sarala Devi Ma'am
-* **Campus Ambassador (President):** [T. Moksha](https://github.com/Moksha-2102)
-* **Vice President:** [M. Sushanth](https://github.com/sushi5456/)
+### 🚀 Technical Stack & Ecosystem
+
+<div align="center">
+
+#### ⚙️ Languages & Core Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+#### 📊 Data Visualization & Dashboards
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+#### 🛠️ Developer Tools & Version Control
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Classroom](https://img.shields.io/badge/GitHub%20Classroom-2088FF?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 ---
 
-### 🌐 Functional Verticals
-Our club is structured into **8 core teams**:
-1. 💻 **Technical Team** — Curriculum design, coding sessions & datathon support
-2. 🗓️ **Events & Operations** — Event management & timeline execution
-3. 📢 **Marketing & PR** — Outreach & public relations
-4. 🎨 **Design & Branding** — Visual identity & promotional assets
-5. 🤝 **Partnerships & Industry Relations** — Speaker coordination & guest sessions
-6. 📝 **Content & Documentation** — Event reporting & documentation
-7. 💰 **Finance & Administration** — Resource allocation & budgeting
-8. 🚀 **Research, Innovation & Opportunities** — Hackathons, competitions & career tracking
+### 🌐 Functional Verticals & Team Leads
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Technical Team</h4>
+      <p><i>Curriculum design, coding sessions & datathons</i></p>
+      <ul>
+        <li><b>Lead:</b> Purna Sai</li>
+        <li><b>Members:</b> Srikar, Anushka</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗓️ Events & Operations</h4>
+      <p><i>Event management, venue & timeline execution</i></p>
+      <ul>
+        <li><b>Lead:</b> Afsha</li>
+        <li><b>Member:</b> Yamini</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📢 Marketing & PR</h4>
+      <p><i>Outreach, campus engagement & social presence</i></p>
+      <ul>
+        <li><b>Status:</b> Recruitment Ongoing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Design & Branding</h4>
+      <p><i>Visual identity, posters & media assets</i></p>
+      <ul>
+        <li><b>Lead:</b> Harshini</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤝 Industry Relations</h4>
+      <p><i>Guest speaker coordination & corporate networking</i></p>
+      <ul>
+        <li><b>Member:</b> Meghana</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📝 Content & Documentation</h4>
+      <p><i>Event reporting, blogs & official records</i></p>
+      <ul>
+        <li><b>Member:</b> Varun</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💰 Finance & Administration</h4>
+      <p><i>Budgeting, logistics & resource allocation</i></p>
+      <ul>
+        <li><b>Status:</b> Recruitment Ongoing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 Research & Opportunities</h4>
+      <p><i>Hackathons, competitions & career tracking</i></p>
+      <ul>
+        <li><b>Lead:</b> Varshith</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🎯 Key Initiatives
-- 🛠️ **Hands-On Bootcamps:** Python, Pandas, Matplotlib & Seaborn analytics
-- 📊 **CSD Datathons:** Departmental data challenges using real-world datasets
-- 🎙️ **Industry Speaker Series:** Guest expert keynotes & fireside Q&A sessions
+### 🎯 Flagship Initiatives
+
+* 🐍 **2-Day Interactive Python & Data Workshop:** 10-hour intensive bootcamp covering data cleaning, EDA, and visualization using real-world datasets (IPL Cricket, Netflix Shows, Spotify Trends).
+* 📊 **Datathons:** data challenges using real-world datasets
+* 🎙️ **Industry Speaker Series:** Guest keynotes, portfolio reviews, and fireside Q&A sessions with visiting data science experts.
