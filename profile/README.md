@@ -1,21 +1,49 @@
-<table width="100%" border="0">
-  <tr>
-    <td align="left" width="20%">
-      <!-- Synapse Club Logo -->
-      <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/SynapseClub_Logo.jpeg?raw=true" width="150" alt="Synapse Logo">
-    </td>
-    <td align="center" width="60%">
-      <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
-      <p><b>Department of Computer Science & Data Science (CSD) | ACE Engineering College</b></p>
-    </td>
-    <td align="right" width="20%">
-      <!-- WiDS Logo -->
-      <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/WiDS_Logo.png?raw=true" width="200" alt="WiDS Logo">
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C1515,100:3776AB&height=180&section=header&text=⚡%20SYNAPSE%20CLUB&fontSize=42&animation=fadeIn&fontColor=ffffff&desc=WiDS%20ACEEC%20Chapter%20%7C%20Department%20of%20CSD&descSize=16" width="100%" alt="Synapse Club Banner" />
+
+  <br/><br/>
+
+  <!-- Header Logos Table -->
+  <table width="100%" border="0">
+    <tr>
+      <td align="left" width="20%">
+        <!-- Synapse Club Logo -->
+        <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/SynapseClub_Logo.jpeg?raw=true" width="150" alt="Synapse Logo">
+      </td>
+      <td align="center" width="60%">
+        <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
+        <p><b>Department of Computer Science & Data Science (CSD) | ACE Engineering College</b></p>
+      </td>
+      <td align="right" width="20%">
+        <!-- WiDS Logo -->
+        <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/WiDS_Logo.png?raw=true" width="200" alt="WiDS Logo">
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Interactive Badges -->
+  <a href="https://www.wids-conference.org/"><img src="https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Campus-ACEEC%20Hyderabad-orange?style=for-the-badge" /></a>
+
+</div>
+
+---
+
+### 📈 Chapter Activity & Metrics
 
 <div align="center">
+
+  <!-- Working Dynamic Badges -->
+  <img src="https://img.shields.io/badge/Active%20Members-8%20Teams-purple?style=for-the-badge&logo=users&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active%20Chapter-success?style=for-the-badge&logo=activity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analytics%20%26%20Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+
+</div>
 
 [![WiDS Community](https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford)](https://www.wids-conference.org/)
 [![Python](https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pandas.pydata.org/)
@@ -56,20 +84,6 @@
 </div>
 
 ---
-
-### 📈 Chapter Activity & Analytics
-
-<div align="center">
-
-  <a href="https://github.com/Synapse-Club-WiDS-ACEEC">
-    <img src="https://github-readme-stats.vercel.app/api?username=Synapse-Club-WiDS-ACEEC&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Synapse-Club-WiDS-ACEEC">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synapse-Club-WiDS-ACEEC&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-  </a>
-
-</div>
-
 ---
 
 ### 🌐 Functional Verticals & Team Leads
