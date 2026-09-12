@@ -1,6 +1,6 @@
 <table width="100%" border="0">
   <tr>
-    <td align="left" width="20%">
+    <td align="left" width="60%">
       <!-- Synapse Club Logo -->
       <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/SynapseClub_Logo.jpeg?raw=true" width="100" alt="Synapse Logo">
     </td>
@@ -8,7 +8,7 @@
       <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
       <p><b>Department of Computer Science & Data Science (CSD) | ACE Engineering College</b></p>
     </td>
-    <td align="right" width="20%">
+    <td align="right" width="60%">
       <!-- WiDS Logo -->
       <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/WiDS_Logo.png?raw=true" width="110" alt="WiDS Logo">
     </td>
