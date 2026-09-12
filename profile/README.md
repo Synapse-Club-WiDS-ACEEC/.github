@@ -2,7 +2,7 @@
   <tr>
     <td align="left" width="20%">
       <!-- Synapse Club Logo -->
-      <img src="YOUR_SYNAPSE_LOGO_URL_HERE" width="90" alt="Synapse Logo">
+      <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/SynapseClub_Logo.jpeg?raw=true" width="90" alt="Synapse Logo">
     </td>
     <td align="center" width="60%">
       <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
@@ -10,7 +10,7 @@
     </td>
     <td align="right" width="20%">
       <!-- WiDS Logo -->
-      <img src="https://www.widsconference.org/uploads/1/3/0/0/130006764/wids-logo-png_orig.png" width="110" alt="WiDS Logo">
+      <img src="[https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/WiDS_Logo.png?raw=true]" width="110" alt="WiDS Logo">
     </td>
   </tr>
 </table>
