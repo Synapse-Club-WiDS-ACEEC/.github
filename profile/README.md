@@ -31,6 +31,7 @@
   <a href="https://github.com/Synapse-Club-WiDS-ACEEC"><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" /></a>
 
   <br />
+  
   <!-- Interactive Badges -->
   <a href="https://www.wids-conference.org/"><img src="https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
@@ -87,6 +88,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Classroom](https://img.shields.io/badge/GitHub%20Classroom-2088FF?style=for-the-badge&logo=github&logoColor=white)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 </div>
 
 ---
@@ -181,8 +191,25 @@
 
 ---
 
-### 🎯 Flagship Initiatives
+### 🚀 Flagship Initiatives
 
-* 🐍 **2-Day Interactive Python & Data Workshop:** 10-hour intensive bootcamp covering data cleaning, EDA, and visualization using real-world datasets (IPL Cricket, Netflix Shows, Spotify Trends).
-* 📊 **Datathons:** Hands-on data challenges designed for students.
-* 🎙️ **Industry Speaker Series:** Guest keynotes, portfolio reviews, and fireside Q&A sessions with visiting data science experts.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐍 PyCore Workshop</h3>
+      <p>Official 2-Day (10-Hour) hands-on Data Analytics & Python workshop covering Pandas, Data Cleaning, Seaborn visualizations, and real-world IPL/Netflix datasets.</p>
+      <p align="center">
+        <a href="https://github.com/Synapse-Club-WiDS-ACEEC/PyCore-Workshop">
+          <img src="https://img.shields.io/badge/Explore%20Repo-PyCore--Workshop-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="PyCore Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Upcoming Datathons</h3>
+      <p>Phase III of our chapter roadmap featuring domain-specific data challenges, predictive modeling, and student hackathon competitions.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Coming%20Soon-f97316?style=for-the-badge" alt="Coming Soon" />
+      </p>
+    </td>
+  </tr>
+</table>
