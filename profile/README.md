@@ -10,7 +10,7 @@
     </td>
     <td align="right" width="20%">
       <!-- WiDS Logo -->
-      <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/WiDS_Logo.png?raw=true" width="170" alt="WiDS Logo">
+      <img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/WiDS_Logo.png?raw=true" width="180" alt="WiDS Logo">
     </td>
   </tr>
 </table>
