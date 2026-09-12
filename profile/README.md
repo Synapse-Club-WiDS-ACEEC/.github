@@ -3,7 +3,7 @@
 # ⚡ Synapse Club — WiDS ACEEC Chapter
 **Department of Computer Science & Data Science (CSD) | ACE Engineering College**
 
-[![WiDS Stanford](https://img.shields.io/badge/Affiliation-WiDS%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford)](https://www.widsconference.org/)
+[![WiDS Community](https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20Univ-8C1515?style=for-the-badge&logo=stanford)](https://www.wids-conference.org/)
 [![Python](https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pandas.pydata.org/)
 [![Location](https://img.shields.io/badge/Campus-ACEEC%20Hyderabad-orange?style=for-the-badge)](#)
 
