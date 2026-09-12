@@ -1,7 +1,21 @@
-<div align="center">
+<table width="100%" border="0">
+  <tr>
+    <td align="left" width="20%">
+      <!-- Synapse Club Logo -->
+      <img src="YOUR_SYNAPSE_LOGO_URL_HERE" width="90" alt="Synapse Logo">
+    </td>
+    <td align="center" width="60%">
+      <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
+      <p><b>Department of Computer Science & Data Science (CSD) | ACE Engineering College</b></p>
+    </td>
+    <td align="right" width="20%">
+      <!-- WiDS Logo -->
+      <img src="https://www.widsconference.org/uploads/1/3/0/0/130006764/wids-logo-png_orig.png" width="110" alt="WiDS Logo">
+    </td>
+  </tr>
+</table>
 
-# ⚡ Synapse Club — WiDS ACEEC Chapter
-**Department of Computer Science & Data Science (CSD) | ACE Engineering College**
+<div align="center">
 
 [![WiDS Community](https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford)](https://www.wids-conference.org/)
 [![Python](https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://pandas.pydata.org/)
