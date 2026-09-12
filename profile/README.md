@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/Git_AnimatedHeader.gif?raw=true" width="100%" alt="Synapse Club | Official WiDS@ACEEC Chapter" />
+<img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/Synapse_WIDS_animated_banner_stars.gif?raw=true" width="100%" alt="Synapse Club | Official WiDS@ACEEC Chapter" />
 
   <br/><br/>
 
