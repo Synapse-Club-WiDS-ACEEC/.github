@@ -1,2 +1,75 @@
-# .github
-Official Profile README for Synapse Club — WiDS ACEEC Chapter
+<div align="center">
+
+  <!-- Header Banner -->
+  <img src="https://raw.githubusercontent.com/Synapse-Club-WiDS-ACEEC/.github/main/profile/Synapse_WIDS_animated_banner_stars.gif" width="100%" alt="Synapse Club Banner" />
+
+  <br />
+  <br />
+
+  <!-- Badges -->
+  [![WiDS Chapter](https://img.shields.io/badge/WiDS-ACEEC%20Chapter-8A2BE2?style=for-the-badge&logo=IEEE&logoColor=white)](https://github.com/Synapse-Club-WiDS-ACEEC)
+  [![Organization](https://img.shields.io/badge/Club-Synapse%20ACEEC-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Synapse-Club-WiDS-ACEEC)
+  [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+  [![Status](https://img.shields.io/badge/Chapter-Active-brightgreen?style=for-the-badge)](https://github.com/Synapse-Club-WiDS-ACEEC)
+
+  <br />
+  <br />
+
+  <h1>⚡ Synapse Club — WiDS ACEEC Chapter</h1>
+  <p><i>Empowering student developers through hands-on Data Science, Analytics, and Open Source.</i></p>
+
+</div>
+
+---
+
+### 🚀 Active Flagship Initiatives
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐍 PyCore Workshop</h3>
+      <p>Official 2-Day (10-Hour) hands-on Data Analytics & Python workshop covering Pandas, Data Cleaning, Seaborn visualizations, and real-world IPL/Netflix datasets.</p>
+      <p align="center">
+        <a href="https://github.com/Synapse-Club-WiDS-ACEEC/PyCore-Workshop">
+          <img src="https://img.shields.io/badge/Explore%20Repo-PyCore--Workshop-blue?style=for-the-badge&logo=github" alt="PyCore Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Upcoming Datathons</h3>
+      <p>Phase III of our chapter roadmap featuring domain-specific data challenges, model building, and student hackathon competitions.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Coming%20Soon-orange?style=for-the-badge" alt="Coming Soon" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Core Tech Stack & Tooling
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+---
+
+### 📈 Organization Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Synapse-Club-WiDS-ACEEC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synapse-Club-WiDS-ACEEC&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <p>Made with 💜 by <b>Synapse Club Team</b> | ACE Engineering College</p>
+</div>
