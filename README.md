@@ -32,8 +32,6 @@
   [![Status](https://img.shields.io/badge/Chapter-Active-brightgreen?style=for-the-badge)](https://github.com/Synapse-Club-WiDS-ACEEC)
 
   <br />
-  <br />
-
   <!-- Interactive Badges -->
   <a href="https://www.wids-conference.org/"><img src="https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
