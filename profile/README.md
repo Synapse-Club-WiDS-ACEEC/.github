@@ -24,7 +24,13 @@
   </table>
 
   <br/>
+<!-- Organization Badges -->
+  <a href="https://github.com/Synapse-Club-WiDS-ACEEC"><img src="https://img.shields.io/badge/WiDS-ACEEC%20Chapter-8A2BE2?style=for-the-badge&logo=IEEE&logoColor=white" alt="WiDS Chapter" /></a>
+  <a href="https://github.com/Synapse-Club-WiDS-ACEEC"><img src="https://img.shields.io/badge/Club-Synapse%20ACEEC-blue?style=for-the-badge&logo=github&logoColor=white" alt="Organization" /></a>
+  <a href="url?id=37"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/Synapse-Club-WiDS-ACEEC"><img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" /></a>
 
+  <br />
   <!-- Interactive Badges -->
   <a href="https://www.wids-conference.org/"><img src="https://img.shields.io/badge/Backed%20By-WiDS%20Community%20%7C%20Stanford%20University-8C1515?style=for-the-badge&logo=stanford" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Toolkit-Python%20%7C%20Pandas%20%7C%20Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
