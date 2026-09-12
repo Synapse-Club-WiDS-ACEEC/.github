@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8C1515,100:3776AB&height=180&section=header&text=⚡%20SYNAPSE%20CLUB&fontSize=42&animation=fadeIn&fontColor=ffffff&desc=WiDS%20ACEEC%20Chapter%20%7C%20Department%20of%20CSD&descSize=16" width="100%" alt="Synapse Club Banner" />
+<!-- Animated Header Banner -->
+<img src="https://github.com/Synapse-Club-WiDS-ACEEC/.github/blob/main/Git_AnimatedHeader.png?raw=true" width="100%" alt="Synapse Club | Official WiDS@ACEEC Chapter" />
 
   <br/><br/>
 
